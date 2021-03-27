@@ -979,7 +979,8 @@ _ = view_samples(-1, samples)
 ```
 
 
-![png](output_43_0.png)
+![download](https://user-images.githubusercontent.com/1228838/112733938-243f1380-8f19-11eb-88c0-46d5c2d0dab4.png)
+
 
 
 ### Question: What do you notice about your generated samples and how might you improve this model?
